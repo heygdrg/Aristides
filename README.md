@@ -24,6 +24,10 @@ Then the message you want to send and how many time you want to send it.
 </p>
 <br>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/94129991/189529107-49f689e5-abd8-4a8c-b1e4-a5b6d7e6056f.png", width="500", height="500">
+</p>
+
 -----
 
 ### <p align="center">📀 Dependencies 📀</p>
