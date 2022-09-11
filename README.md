@@ -15,7 +15,7 @@
 Aristides is a token spammer in Python3.
 <br><br>
 if you have the token of a person that you don't don't forget Aristides,
-<br>
+<br><br>
 you will have to enter the endpoint conversation where you want to send message (for help BKS#1958).
 <br><br>
 Then the message you want to send and how many time you want to send it.
