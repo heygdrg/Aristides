@@ -7,18 +7,18 @@
 
 -----
 
-### <p align="center">☠️ Héra ☠️</p>
+### <p align="center">☠️ Aristides ☠️</p>
 
 <br><br>
 <p align="center">
 <strong>
-hera is a simple nitro generator in Python3.
+Aristides is a token spammer in Python3.
 <br><br>
-It will generate nitro code,
+if you have the token of a person that you don't don't forget Aristides,
 <br>
-then it will write all of the code in at .txt.
+you will have to enter the endpoint conversation where you want to send message (for help BKS#1958).
 <br><br>
-you have little chance to get a good nitro code but you can get one.
+Then the message you want to send and how many time you want to send it.
 <br><br><br>
 </strong>
 </p>
